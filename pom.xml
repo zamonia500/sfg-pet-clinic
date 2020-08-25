@@ -97,7 +97,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:zamonia500/sfg-pet-clinic.git</developerConnection>
-      <tag>sfg-pet-clinic-0.0.5</tag>
   </scm>
 
 </project>
